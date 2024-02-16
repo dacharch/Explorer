@@ -2,7 +2,11 @@
 
 ## Description
 This is a simple console-based file explorer implemented in Python. It allows users to navigate through directories, view files, and perform basic file operations.
-[!['Video'](https://firebasestorage.googleapis.com/v0/b/portfolio-c1e6a.appspot.com/o/video.mp4?alt=media&token=2b9695ef-0453-4f4a-8c2d-71f1e8233282)
+
+
+
+https://github.com/dacharch/Explorer/assets/46372637/271c3687-3ffe-4440-80dc-b021e53288d3
+
 
 
 ## Features
