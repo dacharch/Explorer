@@ -12,7 +12,7 @@ This is a simple console-based file explorer implemented in Python. It allows us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/console-file-explorer.git
+   git clone https://github.com/dacharch/Explorer.git
 2. cd console-file-explorer
 3. python file_explorer.py
 
