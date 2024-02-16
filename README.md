@@ -7,7 +7,6 @@ This is a simple console-based file explorer implemented in Python. It allows us
 - List files and directories in the current directory
 - Navigate through directories
 - View file contents
-- 
 
 ## Installation
 1. Clone the repository:
