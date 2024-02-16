@@ -18,6 +18,6 @@ https://github.com/dacharch/Explorer/assets/46372637/271c3687-3ffe-4440-80dc-b02
 1. Clone the repository:
    ```bash
    git clone https://github.com/dacharch/Explorer.git
-2. cd console-file-explorer
-3. python file_explorer.py
+2. cd Explorer
+3. python run.py
 
